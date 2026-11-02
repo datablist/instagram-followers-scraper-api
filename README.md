@@ -285,3 +285,5 @@ and [results reference](https://platform.datablist.com/docs/sources/tool-calls/i
 - [Waterfall Email Finder](https://github.com/datablist/waterfall-email-finder-api)
 - [Waterfall Personal Email Finder](https://github.com/datablist/waterfall-personal-email-finder-api)
 - [Waterfall Phone Finder](https://github.com/datablist/waterfall-phone-finder-api)
+- [Bulk Google Search API](https://github.com/datablist/bulk-google-search-api): run Google searches and retrieve structured results.
+- [Sitemap Scraper API](https://github.com/datablist/sitemap-scraper-api): collect page URLs and modification dates from XML sitemaps.
